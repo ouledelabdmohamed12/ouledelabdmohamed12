@@ -6,30 +6,30 @@ Actuellement en **Projet de Fin d'Études (PFE)** chez **Norsys Afrique**. [cite
 ---
 
 ### 🛠 Ce que je fais au quotidien :
-* [cite_start]**Développement Fullstack** : Création d'architectures robustes avec **Spring Boot** et d'interfaces fluides avec **React Native**. 
-* [cite_start]**Qualité & Tests (QA)** : Automatisation des tests avec **Selenium**, **JUnit** et analyse continue avec **SonarQube**. 
-* [cite_start]**Cloud & DevOps** : Déploiement conteneurisé avec **Docker** et orchestration via **Kubernetes** (Certifié). 
+* **Développement Fullstack** : Création d'architectures robustes avec **Spring Boot** et d'interfaces fluides avec **React Native**. 
+* **Qualité & Tests (QA)** : Automatisation des tests avec **Selenium**, **JUnit** et analyse continue avec **SonarQube**. 
+* **Cloud & DevOps** : Déploiement conteneurisé avec **Docker** et orchestration via **Kubernetes** (Certifié). 
 * **Intelligence Artificielle** : Exploration et intégration de solutions IA utilisant **Python** et **OpenCV**.
 
 ---
 
 ### 📊 Mes Projets Phares :
-* [cite_start]**AGRISED (Norsys)** : Refonte d'une application de pilotage agricole avec calcul d'indicateurs complexes et cartographie. 
+* **AGRISED (Norsys)** : Refonte d'une application de pilotage agricole avec calcul d'indicateurs complexes et cartographie. 
 * **BurnCare** : Application de santé (Spring Boot / Flutter) dédiée à la prévention du burnout professionnel.
-* [cite_start]**Norsys Eval** : Plateforme SaaS avec intégration de paiement PayPal et gestion d'accès via Keycloak. 
+* **Norsys Eval** : Plateforme SaaS avec intégration de paiement PayPal et gestion d'accès via Keycloak. 
 
 ---
 
 ### 🌐 Objectifs & Mobilité :
-* [cite_start]🎯 Recherche d'un **CDI en France ou au Maroc** à partir du **15 juillet 2026**. 
-* [cite_start]🇫🇷 Éligible au **Passeport Talent** pour une mobilité simplifiée en France. 
+* 🎯 Recherche d'un **CDI en France ou au Maroc** à partir du **15 juillet 2026**. 
+* 🇫🇷 Éligible au **Passeport Talent** pour une mobilité simplifiée en France. 
 
 ---
 
 ### 📫 Me contacter :
-* [cite_start]**LinkedIn** : [Mohamed Ouledelabd](https://www.linkedin.com/in/mohamed-ouledelabd/) 
-* [cite_start]**Email** : ouledelabd.mohamed@gmail.com 
-* [cite_start]**Localisation** : Marrakech, Maroc 
+* **LinkedIn** : [Mohamed Ouledelabd](https://www.linkedin.com/in/mohamed-ouledelabd/) 
+* **Email** : ouledelabd.mohamed@gmail.com 
+* **Localisation** : Marrakech, Maroc 
 
 ---
 
